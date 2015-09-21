@@ -18,4 +18,4 @@ Or
 
 Addons 
 -----------------------------------
-A simple rating simple was added on. Source: https://github.com/dreyescat/bootstrap-rating
+A simple rating system was added on. Source: https://github.com/dreyescat/bootstrap-rating
